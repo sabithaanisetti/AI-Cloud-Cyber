@@ -1,10 +1,11 @@
 # AI as a Portfolio
 
 STRATEGY
-Strategy fails when treated as initiatives. It works when treated as capital allocation.
-- AI promises upside.
-- Cloud exposes cost curves.
-- Cyber absorbs downside.
+
+Strategy fails when treated purely as initiatives. It works when treated as capital allocation.
+> AI promises upside.
+> Cloud exposes cost curves.
+> Cyber absorbs downside.
   
 Risk compounds invisibly, when funded individually.
 When governed as a portfolio, tradeoffs become explicit.
