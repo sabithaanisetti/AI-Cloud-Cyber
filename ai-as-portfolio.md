@@ -1,7 +1,6 @@
 # AI as a Portfolio
 
 STRATEGY
-strategy/ai-cloud-cyber-as-portfolio.md
 
 Theme: Strategy fails when treated as initiatives. It works when treated as capital allocation.
 
