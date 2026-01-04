@@ -1,3 +1,3 @@
-# Decision-Support Platform for AI, Cloud, and Cyber
+# Contrasts in program-level thinking
 
 Operator-grade content for senior leaders.
