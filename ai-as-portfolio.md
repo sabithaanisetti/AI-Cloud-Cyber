@@ -5,22 +5,20 @@ strategy/ai-cloud-cyber-as-portfolio.md
 
 Theme: Strategy fails when treated as initiatives. It works when treated as capital allocation.
 
-AI promises upside.
-Cloud exposes cost curves.
-Cyber absorbs downside.
+- AI promises upside.
+- Cloud exposes cost curves.
+- Cyber absorbs downside.
 
-When each is funded independently, risk compounds invisibly.
+Risk compounds invisibly, when funded individually.
 When governed as a portfolio, tradeoffs become explicit.
 
 Failure Pattern
 
-AI funded for innovation
+- AI funded for innovation.
+- Cloud funded for efficiency.
+- Cyber funded for compliance.
 
-Cloud funded for efficiency
-
-Cyber funded for compliance
-
-Result: Local optimization. Global fragility.
+Result: Local optimization. Enterprise fragility.
 
 Conclusion:
 Strategy succeeds when capital, risk, and timelines are evaluated together.
