@@ -1,0 +1,1 @@
+Create repo yourusername.github.io → upload contents → Settings → Pages → main / root.
