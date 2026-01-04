@@ -1,3 +1,3 @@
-# Contrasts in program-level thinking
+# Program-level thinking
 
 Operator-grade content for senior leaders.
