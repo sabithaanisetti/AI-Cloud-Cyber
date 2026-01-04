@@ -1,0 +1,3 @@
+# Board Packs
+
+Content placeholder.
