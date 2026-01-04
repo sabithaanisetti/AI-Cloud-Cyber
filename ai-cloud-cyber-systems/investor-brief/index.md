@@ -1,3 +1,0 @@
-# Investor Brief
-
-Content placeholder.

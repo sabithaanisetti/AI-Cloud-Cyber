@@ -1,3 +1,0 @@
-# Program Execution
-
-Content placeholder.

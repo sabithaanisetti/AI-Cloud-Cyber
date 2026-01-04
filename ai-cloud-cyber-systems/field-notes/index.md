@@ -1,3 +1,0 @@
-# Field Notes
-
-Content placeholder.
