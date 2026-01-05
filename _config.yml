@@ -1,7 +1,10 @@
-title: AI, Cloud, and Cyber Systems
+title: AI-Cloud-Cyber
 theme: minima
 markdown: kramdown
 
 url: "https://sabithaanisetti.github.io"
 baseurl: "/AI-Cloud-Cyber"
+
+plugins:
+  - jekyll-feed
 
