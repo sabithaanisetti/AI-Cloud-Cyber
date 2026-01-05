@@ -1,5 +1,5 @@
 {{content}}
-# AI as a Portfolio
+# AI as a Portfolio 
 
 🔹 STRATEGY
 
@@ -139,4 +139,4 @@ Bad narratives sell certainty where none exists.
 > Conclusion: Executive communications should be optimizing delivery with brilliance in decision-making rather than progress theatre.
 >> Executives need options, not assurances.
 
-
+By Sabitha Anisetti
