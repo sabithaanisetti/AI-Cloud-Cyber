@@ -1,10 +1,6 @@
-title: AI-Cloud-Cyber
+title: AI as a Portfolio
 theme: minima
 markdown: kramdown
 
 url: "https://sabithaanisetti.github.io"
-baseurl: "/AI-Cloud-Cyber"
-
-plugins:
-  - jekyll-feed
-repository: sabithaanisetti/AI-Cloud-Cyber
+baseurl: "/AI-Cloud-Cyber"   # IMPORTANT: no trailing slash
