@@ -1,3 +1,13 @@
+---
+layout: page
+title: "AI as a Portfolio"
+permalink: /ai-as-a-portfolio/
+---
+
+# AI as a Portfolio
+...your content...
+
+
 # AI as a Portfolio
 
 🔹 STRATEGY
