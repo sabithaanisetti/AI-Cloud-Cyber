@@ -1,4 +1,4 @@
-
+{{content}}
 # AI as a Portfolio
 
 🔹 STRATEGY
