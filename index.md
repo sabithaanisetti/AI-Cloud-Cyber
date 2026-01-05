@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 <style>
 .site-header {
   display: none;
