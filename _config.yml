@@ -7,4 +7,4 @@ baseurl: "/AI-Cloud-Cyber"
 
 plugins:
   - jekyll-feed
-
+repository: sabithaanisetti/AI-Cloud-Cyber
